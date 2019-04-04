@@ -1,0 +1,5 @@
+{
+  "Interpolation example {number}": "Interpolácia napríklad {number}",
+  "This is translated footer": "Toto je preložené päty",
+  "{count, plural, =0 {no persons} =1 {one person} other {# persons}}": "{{count, plural, =0 {no persons} =1 {one person} other {# persons}}, plural, =1 {jeden} few {nekolik} many {hodne} other {ostatni}}"
+}

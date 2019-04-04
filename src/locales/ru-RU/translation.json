@@ -1,4 +1,5 @@
 {
+    "Another test string": "Test string",
     "Interpolation example {number}": "Pizdec",
     "This is translated footer": "Pizdec",
     "{count, plural, =0 {no persons} =1 {one person} other {# persons}}": "Pizdec"

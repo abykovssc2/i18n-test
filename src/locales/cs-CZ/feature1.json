@@ -1,5 +1,5 @@
 {
     "Welcome to react": "Vitejte v reactu",
-    "Test string": "Ahoj",
+    "Test string": "Testovaci retezec",
     "Hello <0>World</0>, you have <1>{count}</1> unread message.": "Ahoj <0>Svete</0>, mas <1>{count}</1> neprectenych zpráv."
 }

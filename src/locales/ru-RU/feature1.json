@@ -1,4 +1,5 @@
 {
     "Welcome to react": "Pizdec",
+    "Test string": "Test string",
     "Hello <0>World</0>, you have <1>{count}</1> unread message.": "Pizdec"
 }

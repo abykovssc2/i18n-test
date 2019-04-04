@@ -1,5 +1,5 @@
 {
-    "Welcome to react": "Blyat'",
-    "Test string": "Pizdec",
-    "Hello <0>World</0>, you have <1>{count}</1> unread message.": "Pizdec sovsem"
+    "Welcome to react": "Добро пожаловать реагировать",
+    "Test string": "Тестовая строка",
+    "Hello <0>World</0>, you have <1>{count}</1> unread message.": "Здравствуйте <0>Мир</0>, у вас есть <1>{count}</1> непрочитанное сообщение."
 }
